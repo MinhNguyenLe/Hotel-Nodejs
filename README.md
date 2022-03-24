@@ -1,3 +1,4 @@
+test
 # Hotel Management System
 
 This project was created using restify and is basically an **API** secured with **JWT**, sequelizejs was selected as ORM and joi for user schema definitions to make data validations.
